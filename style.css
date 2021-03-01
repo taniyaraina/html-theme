@@ -1,0 +1,111 @@
+header {
+  background-color: black;
+}
+.but {
+  color: white !important;
+  background-color: black;
+  padding: 10px 20px;
+}
+.book {
+  color: white;
+}
+.image {
+  text-align: center;
+  background-image: url(https://www.w3schools.com/w3images/chicago.jpg);
+  background-repeat: no-repeat;
+  padding-top: 450px;
+  background-size: cover;
+  background-size: 100% 100%;
+}
+a {
+  text-decoration: none;
+}
+.wid {
+  height: 100%;
+  padding-bottom: 1px;
+}
+.card-image {
+  width: 100%;
+  height: auto;
+}
+#band {
+  text-align: center;
+  padding-bottom: 100px;
+}
+.date {
+  text-align: center;
+  padding-top: 100px;
+}
+i {
+  opacity: 0.5;
+  font-size: smaller;
+  color: #fff;
+}
+h2 {
+  letter-spacing: 5px;
+}
+.par {
+  font-family: sans-serif;
+  font-size: medium;
+  padding: 10px 200px;
+  text-align: justify;
+}
+.name {
+  display: flex;
+  /* text-align: center; */
+  justify-content: space-around;
+  padding: 10px 100px;
+}
+.image1 {
+  width: 60%;
+}
+.tour1 {
+  background-color: black;
+}
+ul {
+  list-style-type: none;
+  width: 70%;
+  text-align: justify;
+  margin: auto;
+  padding: 0px 1px 0px 1px;
+  background-color: white;
+}
+li {
+  border-bottom: 1px solid #ccc;
+}
+.li1 {
+  border-top: 1px solid #ccc;
+}
+.city {
+  display: flex;
+  padding: 57px 13rem;
+  justify-content: center;
+}
+.newyork {
+  background-color: white;
+  text-align: left;
+  margin: 1rem;
+}
+.li1,
+.li2,
+.li3 {
+  /*border-left: 1px solid #ccc;*/
+  /* border-right: 1px solid #ccc;*/
+  padding: 10px;
+  color: #757575;
+}
+span {
+  background-color: red;
+  color: whitesmoke;
+  padding: 5px;
+}
+.three {
+  border: 2px solid;
+  border-radius: rem;
+  padding-left: 5px;
+  border-radius: 100%;
+  padding-right: 5px;
+  color: white;
+  background-color: black;
+  float: right;
+}
