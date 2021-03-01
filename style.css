@@ -91,7 +91,7 @@ li {
 .li3 {
   /*border-left: 1px solid #ccc;*/
   /* border-right: 1px solid #ccc;*/
-  padding: 10px;
+  padding: 9px;
   color: #757575;
 }
 span {
@@ -107,5 +107,6 @@ span {
   padding-right: 5px;
   color: white;
   background-color: black;
+
   float: right;
 }
