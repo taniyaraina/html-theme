@@ -1,10 +1,18 @@
 header {
   background-color: black;
 }
+.wid {
+  height: 100%;
+  padding-bottom: 1px;
+}
 .but {
   color: white !important;
   background-color: black;
   padding: 10px 20px;
+  border: none;
+}
+.but a {
+  text-transform: uppercase;
 }
 .book {
   color: white;
@@ -20,13 +28,9 @@ header {
 a {
   text-decoration: none;
 }
-.wid {
-  height: 100%;
-  padding-bottom: 1px;
-}
 .card-image {
   width: 100%;
-  height: auto;
+  height: 50%;
 }
 #band {
   text-align: center;
@@ -73,8 +77,47 @@ ul {
 li {
   border-bottom: 1px solid #ccc;
 }
+.tick {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border: none;
+}
 .li1 {
   border-top: 1px solid #ccc;
+}
+.contact1 {
+  background-color: white;
+  padding: 50px;
+}
+.map {
+  padding: 20px 10rem 50px 50px;
+  margin-right: 20rem;
+}
+.act {
+  display: flex;
+}
+.button1 {
+  background-color: black;
+  color: white;
+  padding: 9px 10px;
+  border: none;
+}
+.on {
+  padding-left: 88%;
+}
+.font {
+  display: flex;
+  justify-content: center;
+}
+.fan {
+  color: darkgray;
+  font-size: initial;
+  color: black;
+}
+.cont {
+  text-align: center;
 }
 .city {
   display: flex;
@@ -85,6 +128,7 @@ li {
   background-color: white;
   text-align: left;
   margin: 1rem;
+  background-color: white;
 }
 .li1,
 .li2,
@@ -109,4 +153,19 @@ span {
   background-color: black;
 
   float: right;
+}
+.form1,
+.form2 {
+  padding: 12px;
+  border-radius: 0px;
+}
+.form2 {
+  align-self: stretch;
+  display: flex;
+  padding-right: 55%;
+  margin-bottom: 15px;
+}
+.act1 {
+  padding-right: 25px;
+  padding-bottom: 10px;
 }
